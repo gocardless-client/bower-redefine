@@ -1,0 +1,11 @@
+{
+  "name": "bower-redefine",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gocardless-client/bower-lodash-angular.git"
+  },
+  "engines": {
+    "node": "0.10.0"
+  }
+}
