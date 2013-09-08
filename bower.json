@@ -4,7 +4,6 @@
   "main": "redefine.js",
   "ignore": [
     "**/.*",
-    "readme.md",
-    "package.json"
+    "readme.md"
   ]
 }
